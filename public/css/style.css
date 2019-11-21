@@ -80,5 +80,6 @@ p > span { display: block; padding-bottom: 12px; }
   border-radius: 8px; 
   color: white; 
   background-color: salmon; 
-  margin-top: 8px
+  margin-top: 8px;
+  cursor: pointer;
 }

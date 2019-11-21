@@ -8,3 +8,5 @@ const connect = sql.createConnection({
     port: config.port,
     database: config.database
 })
+
+module.exports = connect;
